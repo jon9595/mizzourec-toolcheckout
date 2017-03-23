@@ -1,0 +1,11 @@
+html,
+body {
+  height: 100%;
+  background: #111 url('../images/bg.png') repeat center top;
+  font-family: Helvetica, Arial, sans-serif;
+  text-transform: none;
+}
+
+#wrap {
+  
+}
